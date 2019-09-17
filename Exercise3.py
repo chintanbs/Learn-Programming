@@ -19,4 +19,5 @@ print("Is it greater?", 5 > -2)
 print("Is it greater or equal?", 5 >= -2)
 print("Is it less or equal?", 7 <= -3)
 print("This is a GIT Commit test.")
-print("This is a test!")
+print("This is a test.")
+
