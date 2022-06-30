@@ -1,1 +1,1 @@
-SELECT * FROM people;
+SELECT * FROM public.people;
