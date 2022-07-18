@@ -8,13 +8,15 @@
             "name": "console_project",
             "cwd": "console_project",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "bin/console_project.dart"
         },
         {
             "name": "dart_application_1",
             "cwd": "dart_application_1",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "bin/dart_application_1.dart"
         }
     ]
 }
