@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3655fe6a-2c15-4598-a558-c1899384caae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97766eb90211bac5d664771f9a0c6924/.filecache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97766eb90211bac5d664771f9a0c6924/App.framework/App" beforeDir="false" />
@@ -140,12 +141,17 @@
       <change beforePath="$PROJECT_DIR$/windows/runner/runner.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/windows/runner/runner.exe.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Learn Dart/console_project/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Learn Dart/console_project/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Learn Dart/dart_application_1/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Learn Dart/dart_application_1/pubspec.lock" afterDir="false" />
+=======
+    <list default="true" id="8bbf13ec-68d4-47b0-b580-7a6f7eb85ecd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> e53917b4afa5915136771fc4f3d9a076bb3af9ab
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
@@ -156,6 +162,12 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gsgaq8ezdJjMBR7pBz2NkU1CrX" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2C696gFYXoTrWaZ4hDkHkzzhsXe" />
+>>>>>>> e53917b4afa5915136771fc4f3d9a076bb3af9ab
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
@@ -169,6 +181,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -190,6 +203,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667182772666</updated>
+=======
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bbf13ec-68d4-47b0-b580-7a6f7eb85ecd" name="Changes" comment="" />
+      <created>1658111995298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658111995298</updated>
+>>>>>>> e53917b4afa5915136771fc4f3d9a076bb3af9ab
     </task>
     <servers />
   </component>
@@ -199,6 +230,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -210,4 +242,6 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> e53917b4afa5915136771fc4f3d9a076bb3af9ab
 </project>

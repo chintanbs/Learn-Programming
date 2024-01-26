@@ -5,6 +5,6 @@ void main(List<String> arguments) {
     print('Hello world: ${console_project.calculate()}! \n'
         'Args sum: ${arguments.fold<int>(0, (previousValue, element) => previousValue + int.parse(element))}');
   } catch (e) {
-    print('Error: At least one argumetn is not an integer!');
+    print('Error: At least one argument is not an integer!');
   }
 }
